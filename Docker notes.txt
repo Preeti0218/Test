@@ -1,0 +1,65 @@
+Docker Containeraization.
+
+https://lex.infosysapps.com/en/app/toc/lex_auth_01279551502521958467/overview
+
+Docker hub ; https://hub.docker.com/
+
+for documentation -- https://docs.docker.com/
+
+*********************************************************
+https://labs.play-with-k8s.com/
+**************************************************
+
+
+for details -- https://www.fosstechnix.com/dockerfile-instructions/
+
+docker volume -- https://docs.docker.com/storage/volumes/
+
+network -- https://docs.docker.com/engine/tutorials/networkingcontainers/#:~:text=Network%20containers%201%20Launch%20a%20container%20on%20the,network%20%F0%9F%94%97.%20...%204%20Next%20steps%20%F0%9F%94%97.%20
+
+-ip interactive mode
+-d daemonized mode for long run
+
+
+*******************************************************
+Swarm
+
+https://lex.infosysapps.com/en/viewer/pdf/lex_auth_0130096237742489601741?collectionId=lex_auth_0130088132130160641495&collectionType=Course
+
+
+https://lex.infosysapps.com/en/viewer/iap/lex_auth_0130088877192888321542?collectionId=lex_auth_0130088132130160641495&collectionType=Course
+
+************************************
+
+https://lex.infosysapps.com/en/app/infy/training/lex_auth_0130088132130160641495/trainings
+
+
+
+https://lex.infosysapps.com/en/app/search/home
+
+
+https://lex.infosysapps.com/en/app/toc/lex_auth_013341334555574272211/overview
+
+https://lex.infosysapps.com/en/app/toc/lex_auth_012862933137580032445/overview
+
+
+https://lex.infosysapps.com/en/app/infy/certification-dashboard
+
+
+https://lex.infosysapps.com/en/app/profile/competency/assessment
+
+
+https://lex.infosysapps.com/en/viewer/pdf/lex_auth_013172957322477568562?collectionId=lex_auth_01279551502521958467&collectionType=Course
+from Sreedhu Krishnan (internal) to everyone:    4:03 PM
+https://lex.infosysapps.com/en/viewer/quiz/lex_auth_01288498468881203245?collectionId=lex_auth_01279551502521958467&collectionType=Course
+
+https://lex.infosysapps.com/en/viewer/iap/lex_auth_01288498468881203245
+
+https://lex.infosysapps.com/en/viewer/iap/lex_auth_01288498468881203245
+
+https://lex.infosysapps.com/en/app/toc/lex_auth_0131581889148108801068/overview
+
+https://lex.infosysapps.com/en/app/toc/lex_auth_013034433542283264467/overview
+
+
+
